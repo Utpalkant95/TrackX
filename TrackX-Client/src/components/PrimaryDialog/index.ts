@@ -1,0 +1,1 @@
+export {default as PrimaryDailog} from "./PrimaryDailog";
